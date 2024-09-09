@@ -1,4 +1,4 @@
-## Creave
+## Creava
 
 Patreon clone using Django, Tailwindcss and Stripe, for educational purpose only.
 
